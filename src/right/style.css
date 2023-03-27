@@ -1,0 +1,14 @@
+.Block_right{
+    width: 75%;
+    height: 100vh;
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blockse{
+    width: 500px;
+    height: 500px;
+    background-color: #ffff00;
+}
